@@ -20,7 +20,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
               <span className="text-xl font-bold font-display text-white">P</span>
             </div>
             <div>
-              <h1 className="font-bold text-lg leading-tight tracking-tight">ProManage</h1>
+              <h1 className="font-bold text-lg leading-tight tracking-tight text-white">ProManage</h1>
               <p className="text-xs text-slate-400 font-medium">Solutions Pvt. Ltd.</p>
             </div>
           </div>
