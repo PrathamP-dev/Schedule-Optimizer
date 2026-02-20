@@ -59,7 +59,8 @@ This ensures the company earns the highest possible revenue within its fixed wor
 This project was developed as part of a college assignment to demonstrate practical understanding of:
 
 - Java programming  
-- Database connectivity  
+- Database connectivity
+- Data Structures
 - Scheduling algorithms  
 - Real-world problem solving  
 
